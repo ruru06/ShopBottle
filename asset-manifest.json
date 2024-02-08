@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShopBottle/static/css/main.889dc190.css",
+    "main.js": "/ShopBottle/static/js/main.e139bfe5.js",
+    "index.html": "/ShopBottle/index.html",
+    "main.889dc190.css.map": "/ShopBottle/static/css/main.889dc190.css.map",
+    "main.e139bfe5.js.map": "/ShopBottle/static/js/main.e139bfe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.889dc190.css",
+    "static/js/main.e139bfe5.js"
+  ]
+}
